@@ -1,7 +1,7 @@
-# Mybatis摸索之路
+# OSU!Framework文档
 
 
-> 这是我自己的笔记啊啊啊啊
+> 关于官网[OSU!Framework](https://github.com/ppy/osu-framework)的一些记录
 
-[CSDN](https://blog.csdn.net/Aphysia)
-[滚动鼠标](#introduction)
+[我的Github主页](https://github.com/lagrahhn)
+<!-- [滚动鼠标](#introduction) -->
