@@ -5,3 +5,7 @@
 
 - docsify如何部署
   - [部署到Github Pages](./docsify如何部署/部署流程.md)
+
+- selenium笔记
+  - [selenium笔记](./selenium笔记/selenium%20in%20python/read.md)
+  
