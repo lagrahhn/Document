@@ -1,1 +1,1 @@
-访问地址:https://lagrahhn.github.io/OSU_Document/#/
+访问地址:https://lagrahhn.github.io/Document/#/
