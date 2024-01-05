@@ -7,5 +7,5 @@
   - [部署到Github Pages](./docsify如何部署/部署流程.md)
 
 - selenium笔记
-  - [selenium笔记](./selenium笔记/selenium%20in%20python/read.md)
+  - [selenium笔记](./playwright笔记/playwright%20in%20python/read.md)
   
